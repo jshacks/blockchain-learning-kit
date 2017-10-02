@@ -80,18 +80,17 @@ https://hackernoon.com/wtf-is-ethereum-c65e0d67ac09[INTERMEDIATE][BLOCKCHAIN][DE
 https://hackernoon.com/the-state-of-cryptocurrency-2017-edition-c774ae5f7d9a [ADVANCED][BLOCKCHAIN][SUMMARY][NOT-SURE]
 - presentation notes from people in the field, mostly economics related
 
-https://medium.com/@Vlad_Zamfir/blockchains-considered-potentially-harmful-d039888c3208
-https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481
-https://hackernoon.com/blockchains-are-hard-to-scale-ca7dc80e9d8
-https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984
-https://medium.com/@cburniske/the-crypto-j-curve-be5fdddafa26
-https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe
-https://itnext.io/governance-in-blockchain-part-i-the-bitcoin-experiment-a8c633791e6d
-https://medium.com/@TenX/raising-money-from-vcs-vs-doing-a-token-sale-a-quick-guide-to-best-practices-e38e7645727b
-https://vinnylingham.com/why-tokens-are-eating-the-world-b4174235c87b
-https://hackernoon.com/bitcoin-forks-ulterior-motives-cf953e4ec7e0
-https://hackernoon.com/reflections-on-the-best-blockchain-tweets-ever-written-d488af960d4f
-https://www.producthunt.com/ask/2022-any-good-material-to-really-understand-the-power-of-the-blockchain-and-cryptocurrencies
+https://medium.com/@Vlad_Zamfir/blockchains-considered-potentially-harmful-d039888c3208 [ADVANCED][BLOCKCHAIN][THREATS][NOT-SURE]
+https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481 [ADVANCED][BLOCKCHAIN][THREATS][NOT-SURE]
+https://hackernoon.com/blockchains-are-hard-to-scale-ca7dc80e9d8 [ADVANCED][BLOCKCHAIN][LIMITATIONS][NOT-SURE]
+https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984 [ADVANCED][BLOCKCHAIN][OPPORTUNITIES][NOT-SURE]
+https://medium.com/@cburniske/the-crypto-j-curve-be5fdddafa26 [ADVANCED][CRYPTOCURRENCY][ECONOMICS][NOT-SURE]
+https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe [ADVANCED][BLOCKCHAIN][OVERVIEW][DETAILED]
+https://itnext.io/governance-in-blockchain-part-i-the-bitcoin-experiment-a8c633791e6d [ADVANCED][CRYPTOCURRENCY][NOT-SURE]
+https://medium.com/@TenX/raising-money-from-vcs-vs-doing-a-token-sale-a-quick-guide-to-best-practices-e38e7645727b [ADVANCED][CRYPTOCURRENCY][ECONOMICS][NOT-SURE]
+https://vinnylingham.com/why-tokens-are-eating-the-world-b4174235c87b [ADVANCED][BLOCKCHAIN][OVERVIEW][NOT-SURE]
+https://hackernoon.com/bitcoin-forks-ulterior-motives-cf953e4ec7e0 [ADVANCED][BITCOIN][NOT-SURE]
+https://hackernoon.com/reflections-on-the-best-blockchain-tweets-ever-written-d488af960d4f [ADVANCED][BLOCKCHAIN][FUTURE][NOT-SURE]
 
 //TODO Stop after this list and see where the gaps in the knowledge are. Then find articles that fill the gaps.
 
