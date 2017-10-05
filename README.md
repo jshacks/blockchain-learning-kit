@@ -30,11 +30,18 @@ Rules:
  - If an article requires prerequisite knowledge that is assumed in the text, then it should go after another article that has prerequisite knowledge.
 
 Labels:
-  - beginner/intermediate/advanced;
-  - detailed or summary;
-  - subtopic of the blockchain that it focuses on (e.g. smart contracts)
-  - articles with this tag I might delete since I'm not sure they are relevant to the purpose of learning at this point - [NOT-SURE]
-  - developer resource - [DEVELOPMENT]
+  * on difficulty:
+    * [BEGINNER] / [INTERMEDIATE] / [ADVANCED];
+  * depth it covers an issue:
+    * [DETAILED] / [SUMMARY]
+  * subtopic of the blockchain that it focuses on:
+    * e.g. [SMART-CONTRACTS][CRYPTOCURRENCY][ICO]
+  * articles with this tag I might delete since I'm not sure they are relevant to the purpose of learning at this point 
+    * [NOT-SURE]
+  * developer resource 
+    * [DEVELOPMENT]
+
+
   - for a list of subtopics we might need to address, look into this article - https://hackernoon.com/a-primer-on-blockchains-protocols-and-token-sales-9ebe117b5759
 
 
