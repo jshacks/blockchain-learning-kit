@@ -98,10 +98,31 @@ http://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockch
 
 ### Advanced ~ How the heck can I do it
 
-https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d [DEVELOPMENT][BLOCKCHAIN]
+At this point we understand things conceptually, we have a grasp of some of the terminology, some of the aplications. We now want to start building something. Either a simple implementation of a blockchain so we can further solidify our understanding, or some trivial application to understand the technical toolset available for developers.
 
-https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe [ADVANCED][BLOCKCHAIN][OVERVIEW][DETAILED]
+https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d 
+~ A simple application to illustrate how the blockchain works
+* [DEVELOPMENT][BLOCKCHAIN]
 
-https://medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4 [ADVANCED][BITCOIN][DEVELOPMENT]
+https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe 
+~ A developer friendly guide to the current technical ecosystem around ethereum
+[ADVANCED][ETHEREUM][OVERVIEW][DETAILED]
 
+https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
+~ Intro to Programming Smart Contracts on Ethereum
+* [DEVELOPMENT][ETHEREUM]
+
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
+~ A simple ‘Hello World!’ decentralised application.
+* [DEVELOPMENT][ETHEREUM
+
+https://solidity.readthedocs.io/en/develop/
+~ Documentation for Solidity - Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
+* [DEVELOPMENT][ETHEREUM]
+
+https://ethereum.stackexchange.com/
+~ Ask your ethereum related questions
+* [ETHEREUM]
+
+//TODO Conclusion + Thoughts going further.
 
