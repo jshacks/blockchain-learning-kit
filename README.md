@@ -16,7 +16,7 @@ So I am making a compilation which will introduce you gradually to the complexit
 - [x] Get a list of 20 articles from people that are currently learning about this. Classify then come back and look through references.
 - [x] Read each, and provide in the list, a 1 sentence summary of what it is about.
 - [x] Classify according to technical difficulty ( beginner, intermediate, advanced).
-- [ ] Structure them in a logical order, so they follow logically one from the other. And fill the gaps in information with other articles.
+- [x] Structure them in a logical order, so they follow logically one from the other. And fill the gaps in information with other articles.
 - [ ] Make a presentation using resources from existing articles, putting everything together, starting simple and gradually introducing nuances and complexities of the blockchain.
 
 ----
