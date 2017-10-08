@@ -37,8 +37,6 @@ Labels:
     * [DETAILED] / [SUMMARY]
   * subtopic of the blockchain that it focuses on:
     * e.g. [SMART-CONTRACTS][CRYPTOCURRENCY][ICO]
-  * articles with this tag I might delete since I'm not sure they are relevant to the purpose of learning at this point 
-    * [NOT-SURE]
   * developer resource 
     * [DEVELOPMENT]
 
@@ -105,24 +103,25 @@ https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-t
 * [DEVELOPMENT][BLOCKCHAIN]
 
 https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe 
-~ A developer friendly guide to the current technical ecosystem around ethereum
-[ADVANCED][ETHEREUM][OVERVIEW][DETAILED]
+* ~ A developer friendly guide to the current technical ecosystem around ethereum
+* [ADVANCED][ETHEREUM][OVERVIEW][DETAILED]
 
 https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
-~ Intro to Programming Smart Contracts on Ethereum
+* ~ Intro to Programming Smart Contracts on Ethereum
 * [DEVELOPMENT][ETHEREUM]
 
 https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
-~ A simple ‘Hello World!’ decentralised application.
+* ~ A simple ‘Hello World!’ decentralised application.
 * [DEVELOPMENT][ETHEREUM
 
 https://solidity.readthedocs.io/en/develop/
-~ Documentation for Solidity - Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
+* ~ Documentation for Solidity - Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
 * [DEVELOPMENT][ETHEREUM]
 
 https://ethereum.stackexchange.com/
-~ Ask your ethereum related questions
+* ~ Ask your ethereum related questions
 * [ETHEREUM]
 
-//TODO Conclusion + Thoughts going further.
+
+This list is intentionally short. We don't want to flood you with information so much that it just goes out the window. Everything is structured to gently introduce you to the first layers of this huge topic, so that you begin to build a solid foundation of understanding on which to confidently start building your vision.
 
